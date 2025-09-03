@@ -14,6 +14,8 @@ Real-time prediction with confidence score
 Easy to deploy on Streamlit Cloud / Hugging Face
 
 📂 Project Structure
+
+
 <img width="556" height="226" alt="image" src="https://github.com/user-attachments/assets/1ced6293-56f5-4961-afa5-9f8546d09bdc" />
 
 
